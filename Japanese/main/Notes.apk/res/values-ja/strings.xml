@@ -59,7 +59,7 @@
     <string name="search_hint">ノートを検索</string>
     <string name="search_setting_description">Search text in your notes</string>
     <string name="search">ノート</string>
-    <string name="button_new_note">New</string>
+    <string name="button_new_note">新規</string>
     <string name="default_folder_name">Unnamed folder</string>
     <string name="attachment_gallery">ギャラリー</string>
     <string name="attachment_camera">カメラ</string>
