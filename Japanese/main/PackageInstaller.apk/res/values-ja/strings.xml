@@ -88,7 +88,7 @@
     <string name="ok">OK</string>
     <string name="settings">"設定"</string>
     <string name="allow_source_dlg_title">"アプリのための新しいソース"</string>
-    <string name="allow_source_dlg_text">"%1$sが他のアプリをインストールしようとしています。\n\n今後この操作を許可しますか？"</string></string>
+    <string name="allow_source_dlg_text">"%1$sが他のアプリをインストールしようとしています。\n\n今後この操作を許可しますか？"</string>
     <string name="manage_applications">"アプリを管理"</string>
     <string name="dlg_app_replacement_title">"アプリを更新しますか？"</string>
     <string name="dlg_app_replacement_statement">"このアプリは既存のアプリを上書きします。\n\n過去のユーザーデータはすべて保存されます。"</string>
