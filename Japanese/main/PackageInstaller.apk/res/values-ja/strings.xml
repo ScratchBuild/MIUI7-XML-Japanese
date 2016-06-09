@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="caller_app">Permission request from %1$s</string>
+    <string name="caller_app">"%1$sからの権限リクエスト"</string>
     <string name="safe_guard_support">Technical support provided by %1$s</string>
     <string name="safe_relative">"セキュリティ"</string>
     <string name="privacy_relative">"プライバシー"</string>
