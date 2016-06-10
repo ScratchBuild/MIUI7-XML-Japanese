@@ -11,7 +11,7 @@
     <string name="low_risk_perms">Low-risk permissions</string>
     <string name="high_risk_perms">High-risk permissions</string>
     <string name="perm_privacy_app_finish">OK</string>
-    <string name="perm_privacy_app_launch">Launch</string>
+    <string name="perm_privacy_app_launch">開く</string>
     <string name="perm_privacy_app_installed">App installed</string>
     <string name="perm_sysopt_boost_auto_start">Autostart permission</string>
     <string name="perm_sysopt_boost_auto_start_summary">This app can start automatically</string>
@@ -28,7 +28,7 @@
     <string name="install_failed_system_incompatible">"このアプリはMIUIと互換性がありません"</string>
     <string name="permission_group_title_charges_related">Phone</string>
     <string name="permission_group_title_privacy_related">"プライバシー"</string>
-    <string name="permission_group_title_media_related">Media</string>
+    <string name="permission_group_title_media_related">"メディア"</string>
     <string name="permission_group_title_settings_related">"設定"</string>
     <string name="permission_group_title_others">"その他"</string>
     <string name="permission_action_accept">Accept</string>
@@ -38,16 +38,16 @@
     <string name="virus_scan_install"><u>Install anyway</u></string>
     <string name="virus_scan_is_virus">This app contains a virus.</string>
     <string name="virus_scan_is_risk">"This app poses a risk to your device's security."</string>
-    <string name="virus_scan_clear">Remove</string>
+    <string name="virus_scan_clear">"削除"</string>
     <string name="virus_scan_caller_unknown">"不明"</string>
-    <string name="lift_ban_once">Allow once</string>
+    <string name="lift_ban_once">"一度だけ許可"</string>
     <string name="dlg_appstore_notice">Get this app from our official &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
     <string name="app_store_missing_title">"App Store isn't installed"</string>
     <string name="reboot_time">Getting ready to reboot… (%1$s)</string>
     <string name="app_store_missing_message">"Looks like you haven't installed our official App Store. Install it now?"</string>
-    <string name="app_store_install_hint">Install now</string>
+    <string name="app_store_install_hint">"今すぐインストールする"</string>
     <string name="app_store_installing_message">"インストール中…"</string>
-    <string name="btn_text_security_install">Replace with safe version</string>
+    <string name="btn_text_security_install">"安全なバージョンに置き換える"</string>
     <string name="btn_text_install_new_version">"最新バージョン"</string>
     <string name="btn_text_install_origin">Original version</string>
     <string name="btn_text_install_security_version_in_appstore">Replace with safe version</string>
