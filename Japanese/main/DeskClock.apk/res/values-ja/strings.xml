@@ -16,10 +16,10 @@
     <string name="edit_systemtime">システム時刻の編集</string>
     <string name="vibrate_pref_summary">Vibrate when alarm sounds</string>
     <string name="label_pref_summary">Label this alarm clock</string>
-    <string name="worldclock_title">Clock</string>
+    <string name="worldclock_title">世界時計</string>
     <string name="stopwatch_title">ストップウォッチ</string>
     <string name="timer_title">タイマー</string>
-    <string name="menu_add_worldclock">Add clock</string>
+    <string name="menu_add_worldclock">都市を追加</string>
     <string name="menu_edit_timer_item">Edit timer task</string>
     <string name="delete_timer_item_title">Delete timer task</string>
     <string name="delete_selected_timer_item">Delete the selected timer task?</string>
@@ -71,8 +71,8 @@
     <string name="default_alarm_title">Default ringtone</string>
     <string name="alarm_alert">Default ringtone</string>
     <string name="alarm_screen">Alarm screen and ringtone</string>
-    <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
-    <string name="menu_item_sort_by_name">Sort by name</string>
+    <string name="menu_item_sort_by_gmt_offset">時差順</string>
+    <string name="menu_item_sort_by_name">名前順</string>
     <string name="birthday_alarm">Birthday alarm</string>
     <string name="birthday_alarm_summary">Play \"Happy Birthday\" instead of default alarm sound on your birthday</string>
     <string name="turn_off_a_repeat_alarm">Turn off a repeating alarm</string>
@@ -112,7 +112,7 @@
     <string name="day_concat">", "</string>
     <string name="analog_gadget">アナログ時計</string>
     <string name="settings">設定</string>
-    <string name="snooze_duration_title">Snooze duration</string>
+    <string name="snooze_duration_title">スヌーズ間隔</string>
     <string name="auto_silence_title">Auto-silence</string>
     <string name="auto_silence_never">Never</string>
     <string name="done">Done</string>
