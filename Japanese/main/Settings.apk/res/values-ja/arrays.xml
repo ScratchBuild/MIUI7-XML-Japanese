@@ -347,7 +347,7 @@
         <item>メッセージ</item>
         <item>メディア</item>
         <item>端末</item>
-        <item>Bootup</item>
+        <item>ブート</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>おおよその位置情報</item>
@@ -395,9 +395,9 @@
         <item>高精度の現在地情報を監視</item>
         <item>使用統計情報を取得</item>
         <item>マイクをミュート/ミュート解除</item>
-        <item>toast window</item>
-        <item>project media</item>
-        <item>activate VPN</item>
+        <item>トーストの表示</item>
+        <item>メディアの投影</item>
+        <item>VPNの有効化</item>
         <item>wlan change</item>
         <item>bluetoothの変更</item>
         <item>MMSの送信</item>
@@ -457,9 +457,9 @@
         <item>現在地</item>
         <item>仕様統計情報を取得</item>
         <item>マイクをミュート/ミュート解除</item>
-        <item>Toast window</item>
-        <item>メディアプロジェクション</item>
-        <item>Activate VPN</item>
+        <item>トーストの表示</item>
+        <item>メディアの投影</item>
+        <item>VPNの有効化</item>
         <item>WLAN change</item>
         <item>Bluetoothの変更</item>
         <item>MMSの送信</item>
@@ -1203,13 +1203,13 @@
 Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
-        <item>Warm</item>
-        <item>Standard</item>
-        <item>Cool</item>
+        <item>暖色</item>
+        <item>標準</item>
+        <item>寒色</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
-        <item>Standard</item>
+        <item>鮮やか</item>
+        <item>標準</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Automatic contrast</item>
@@ -1263,9 +1263,9 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Face unlock</item>
-        <item>Pattern</item>
+        <item>パターン</item>
         <item>PIN</item>
-        <item>Password</item>
+        <item>パスワード</item>
     </string-array>
     <string-array name="dndm_vip_list_group_array">
         <item>@string/dndm_vip_list_custom</item>
