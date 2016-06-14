@@ -26,7 +26,7 @@
     <string name="menu_folders">フォルダ</string>
     <string name="menu_stick">ピン留めを設定</string>
     <string name="menu_unstick">ピン留めを解除</string>
-    <string name="folder_exist">A folder with the same name already exists</string>
+    <string name="folder_exist">同じ名前のフォルダが既に存在します</string>
     <string name="menu_send_to_desktop">ホーム画面に設置</string>
     <string name="menu_title_select_folder">フォルダを選択</string>
     <string name="menu_move_parent_folder">Parent folder</string>
@@ -83,7 +83,7 @@
     <string name="enable_sync">Sync</string>
     <string name="login_sync">Sign in &amp; sync</string>
     <string name="pref_title_note_style">スタイル</string>
-    <string name="pref_title_common">Additional settings</string>
+    <string name="pref_title_common">その他の設定</string>
     <string name="pref_title_alarm_when_silent">"Don't silence reminders"</string>
     <string name="pref_desc_alarm_when_silent">Alarms for reminders will still sound when ringer is silenced</string>
     <string name="pref_title_recover_help">Recover notes</string>
@@ -95,7 +95,7 @@
     <string name="undo">元に戻す</string>
     <string name="redo">やり直し</string>
     <string name="loading_text">Just a sec…</string>
-    <string name="sns_title_edit">Edit title</string>
+    <string name="sns_title_edit">件名を編集</string>
     <string name="sns_title_send">メッセージを送信</string>
     <string name="sns_action_send">送信</string>
     <string name="sns_hint_title">件名 (省略可)</string>
