@@ -10,8 +10,8 @@
     <string name="auto_startup_dialog_msg">This app can start without your permission.</string>
     <string name="low_risk_perms">Low-risk permissions</string>
     <string name="high_risk_perms">High-risk permissions</string>
-    <string name="perm_privacy_app_finish">OK</string>
-    <string name="perm_privacy_app_launch">開く</string>
+    <string name="perm_privacy_app_finish">"OK"</string>
+    <string name="perm_privacy_app_launch">"開く"</string>
     <string name="perm_privacy_app_installed">App installed</string>
     <string name="perm_sysopt_boost_auto_start">Autostart permission</string>
     <string name="perm_sysopt_boost_auto_start_summary">This app can start automatically</string>
