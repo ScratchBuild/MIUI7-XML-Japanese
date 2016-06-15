@@ -2814,7 +2814,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_power_mode">power mode</string>
     <string name="debug_log">User Experience Program</string>
     <string name="upload_debug_log_title">User Experience Program</string>
-    <string name="upload_debug_log_summary">"匿名の仕様統計情報を送信してMIUIの改善に協力する"</string>
+    <string name="upload_debug_log_summary">"匿名の使用統計情報を送信してMIUIの改善に協力する"</string>
     <string name="sound_vibrate_settings">Sound &amp; vibration</string>
     <string name="imei_information_title">IMEI information</string>
     <string name="imei_information_summary">IMEI relative information</string>
