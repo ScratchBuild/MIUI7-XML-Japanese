@@ -13,7 +13,7 @@
         <item quantity="one">"%d日前"</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Clear</item>
-        <item quantity="one">Sunny</item>
+        <item quantity="other">"晴れ"</item>
+        <item quantity="one">"快晴"</item>
     </plurals>
 </resources>
