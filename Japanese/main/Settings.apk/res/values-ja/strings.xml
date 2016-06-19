@@ -2845,7 +2845,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="sms_delivered_sound_dialog_title">Choose text delivered sound</string>
     <string name="ringtone_uniform_setting_title">Dual SIM settings</string>
     <string name="ringtone_slot_setting_title">Single SIM settings</string>
-    <string name="haptic_feedback_level">Vibration</string>
+    <string name="haptic_feedback_level">"バイブレーションの強さ"</string>
     <string name="privacy_protect_title">Privacy protection</string>
     <string name="privacy_mode_enable_title">"ゲストモード"</string>
     <string name="privacy_mode_enable_sum">Hide messages, notes, photos, settings, and incoming calls</string>
@@ -2997,8 +2997,8 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="locale_settings">Locale</string>
     <string name="country_name">"%s (system)"</string>
     <string name="install_preinstall_app">Loading apps…</string>
-    <string name="volume_category_title">Volume</string>
-    <string name="vibrate_category_title">Vibrate</string>
+    <string name="volume_category_title">"音量"</string>
+    <string name="vibrate_category_title">"バイブレーション"</string>
     <string name="vibrate_in_normal_title">Vibrate when ringing</string>
     <string name="silent_mode_title">Silent mode</string>
     <string name="media_feedback_enable_title">Vibrate with the beat</string>
@@ -3251,7 +3251,7 @@ Select your operating system:"</string>
     <string name="screen_resolution_summary">"Lowering the display's resolution may increase battery life and system speed, however images on screen may be less clear. Your device must reboot to apply this change."</string>
     <string name="screen_resolution_confirm">Reboot</string>
     <string name="finish_application">Force stop</string>
-    <string name="header_category_accounts">Accounts</string>
+    <string name="header_category_accounts">"アカウント"</string>
     <string name="auto_startup_application_manage">Autostart</string>
     <string name="add_auto_startup_application">Add autostart apps</string>
     <string name="power_autorun_apps_empty">Empty</string>
@@ -3639,9 +3639,9 @@ Select your operating system:"</string>
     <string name="zen_mode_option_miui_vibrate">Do not disturb</string>
     <string name="zen_mode_miui_silent_category">Allow</string>
     <string name="miui_silent_title">Silent mode</string>
-    <string name="miui_allow_music">Media</string>
-    <string name="miui_allow_alarm">Alarms</string>
-    <string name="miui_allow_vibrate">Vibrations</string>
+    <string name="miui_allow_music">"メディア"</string>
+    <string name="miui_allow_alarm">"アラーム"</string>
+    <string name="miui_allow_vibrate">"バイブレーション"</string>
     <string name="miui_allow_light">Notification light</string>
     <string name="zen_mode_miui_disturb_category">Do not disturb</string>
     <string name="miui_disturb_title">Do not disturb</string>
