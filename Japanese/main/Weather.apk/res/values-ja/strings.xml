@@ -29,7 +29,7 @@
     <string name="view_indexes_item_today">"今日"</string>
     <string name="view_indexes_item_tommorrow">"明日"</string>
     <string name="activity_main_update_time">"%1$s前に更新"</string>
-    <string name="activity_main_update_time_right_now">just now</string>
+    <string name="activity_main_update_time_right_now">"少し"</string>
     <string name="activity_main_refresh_fail">"ネットワークに接続できませんでした。"</string>
     <string name="activity_find_city_dialog_cancel">"キャンセル"</string>
     <string name="activity_find_city_dialog_set">"設定"</string>
