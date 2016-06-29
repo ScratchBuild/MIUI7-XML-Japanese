@@ -150,7 +150,7 @@
     <string name="resource_comment_all_comments">"すべて"</string>
     <string name="resource_comment_good_comments">Positive</string>
     <string name="resource_comment_bad_comments">Negative</string>
-    <string name="resource_comment_average_score">Ratings</string>
+    <string name="resource_comment_average_score">"評価"</string>
     <string name="resource_comment_score_count">%1$s users</string>
     <string name="resource_comment_no_average_score">N/A</string>
     <string name="resource_comment_5_star">5 Stars</string>
