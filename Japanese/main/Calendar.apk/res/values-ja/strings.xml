@@ -13,7 +13,7 @@
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="repeats_label">"繰り返し"</string>
     <string name="no_title_label">"(無題)"</string>
-    <string name="calendar_refresh">"更新"</string>
+    <string name="calendar_refresh">"同期"</string>
     <string name="show_day_view">Show day</string>
     <string name="agenda_view">"予定リスト"</string>
     <string name="day_view">Day</string>
@@ -40,8 +40,8 @@
     <string name="hint_where">"場所"</string>
     <string name="hint_description">"説明"</string>
     <string name="hint_attendees">"ゲスト"</string>
-    <string name="creating_event">Event created</string>
-    <string name="saving_event">Event saved</string>
+    <string name="creating_event">"予定を作成しました"</string>
+    <string name="saving_event">"予定を保存しました"</string>
     <string name="empty_event">Empty event not created</string>
     <string name="creating_event_with_guest">Invitations will be sent</string>
     <string name="saving_event_with_guest">Updates will be sent</string>
