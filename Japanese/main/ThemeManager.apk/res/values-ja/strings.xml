@@ -12,13 +12,13 @@
     <string name="resource_ringtone_default">Ringtones</string>
     <string name="resource_notification_default">Notifications</string>
     <string name="resource_alarm_default">Alarm</string>
-    <string name="description_designer">Designer</string>
-    <string name="description_author">Author</string>
+    <string name="description_designer">"デザイナー"</string>
+    <string name="description_author">"作者"</string>
     <string name="description_size">Size</string>
     <string name="description_uploadtime">Update</string>
     <string name="description_download">Downloaded</string>
-    <string name="description_version">Version</string>
-    <string name="description_summary">Summary</string>
+    <string name="description_version">"バージョン"</string>
+    <string name="description_summary">"概要"</string>
     <string name="description_version_szie">Version: %1$s Size: %2$s</string>
     <string name="resource_local">Local %1$s</string>
     <string name="resource_online">Online %1$s</string>
