@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="reminder_methods_labels">
-        <item>Notification</item>
-        <item>Email</item>
-        <item>Text message</item>
-        <item>Alarm</item>
+        <item>"通知"</item>
+        <item>"メール"</item>
+        <item>"メッセージ"</item>
+        <item>"アラーム"</item>
     </string-array>
     <integer-array name="reminder_methods_values">
         <item>1</item>
@@ -273,9 +273,9 @@
         <item>No</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Only this event</item>
-        <item>This and future events</item>
-        <item>All events</item>
+        <item>"今回のみ"</item>
+        <item>"以降すべて"</item>
+        <item>"すべての予定"</item>
     </string-array>
     <integer-array name="delete_repeating_values">
         <item>0</item>
@@ -359,11 +359,11 @@
         <item>10080</item>
     </integer-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3 hours</item>
-        <item>4 hours</item>
-        <item>5 hours</item>
-        <item>6 hours</item>
-        <item>1 day</item>
+        <item>"3時間前"</item>
+        <item>"4時間前"</item>
+        <item>"5時間前"</item>
+        <item>"6時間前"</item>
+        <item>"1日前"</item>
     </string-array>
     <integer-array name="travel_reminder_minutes_values">
         <item>180</item>

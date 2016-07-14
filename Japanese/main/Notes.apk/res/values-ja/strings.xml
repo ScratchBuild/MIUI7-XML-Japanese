@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sina_share_pendding">Sending…</string>
-    <string name="sina_share_success">Sent</string>
-    <string name="sina_share_fail">Failed to send</string>
+    <string name="sina_share_pendding">"送信中…"</string>
+    <string name="sina_share_success">"送信しました"</string>
+    <string name="sina_share_fail">"送信に失敗しました"</string>
     <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
     <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
-    <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+    <string name="sina_share_fail_content_repeat">"共有に失敗しました。既にコンテンツが存在します…"</string>
     <string name="app_name">ノート</string>
     <string name="app_widget">ノート</string>
     <string name="widget_havenot_content">タップでノートを作成。ウィジェットを長押しでリサイズ。</string>
